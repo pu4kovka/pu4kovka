@@ -2,10 +2,10 @@
 
 Python Developer → ML / AI Engineer.
 Делаю системы, где модели встречаются с реальными данными: от видеоаналитики
-на YOLOv8 и LLM-агентов до backend-сервисов на FastAPI.
+на YOLO11 и LLM-агентов до backend-сервисов на FastAPI.
 
 - 🧠 Сейчас в фокусе: NVIDIA DeepStream, YOLO11, видеоаналитика в реальном времени, LLM-агенты
-- 🛠️ В проде сам поднимал систему детекции по RTSP-потокам с 10 IP-камер на YOLOv8
+- 🛠️ В проде сам поднимал систему детекции по RTSP-потокам с 10 IP-камер на YOLO11
 - 📫 Email: 14samofalov14@gmail.com
 
 ---
@@ -13,7 +13,7 @@ Python Developer → ML / AI Engineer.
 ### Tech Stack
 
 **ML / CV**
-`PyTorch` `YOLOv8 / YOLO11` `NVIDIA DeepStream` `OpenCV` `torchvision` `NumPy` `pandas`
+`PyTorch` `YOLO11 / YOLO11` `NVIDIA DeepStream` `OpenCV` `torchvision` `NumPy` `pandas`
 
 **Backend**
 `Python` `FastAPI` `PostgreSQL` `SQLAlchemy (async)` `Redis`
@@ -27,7 +27,7 @@ Python Developer → ML / AI Engineer.
 
 | Проект | Описание |
 |---|---|
-| [НАЗВАНИЕ ПРОЕКТА](#) <!-- заменить ссылкой, когда выложишь на GitHub --> | Видеоаналитика на NVIDIA DeepStream: детекция объектов на YOLO11 + отдельная модель классификации |
+| [Deepstream]([#](https://github.com/pu4kovka/Deepstream-)) | Видеоаналитика на NVIDIA DeepStream: детекция объектов на YOLO11 + отдельная модель классификации |
 | [JARVIS](https://github.com/pu4kovka/JARVIS) | Голосовой ассистент для Windows: wake word, локальные LLM (Ollama), управление компьютером, TTS голосом Джарвиса |
 | [Shoes-classifier](https://github.com/pu4kovka/Shoes-classifier) | Классификация моделей кроссовок Nike по фото: ResNet (PyTorch) + inference API на FastAPI |
 | [avito_test-2](https://github.com/pu4kovka/avito_test-2) | Сервис мониторинга количества объявлений на Авито: async FastAPI + Playwright + PostgreSQL |
