@@ -27,7 +27,7 @@ Python Developer → ML / AI Engineer.
 
 | Проект | Описание |
 |---|---|
-| [Deepstream]([#](https://github.com/pu4kovka/Deepstream-)) | Видеоаналитика на NVIDIA DeepStream: детекция объектов на YOLO11 + отдельная модель классификации |
+| [Deepstream](https://github.com/pu4kovka/Deepstream-) | Видеоаналитика на NVIDIA DeepStream: детекция объектов на YOLO11 + отдельная модель классификации |
 | [JARVIS](https://github.com/pu4kovka/JARVIS) | Голосовой ассистент для Windows: wake word, локальные LLM (Ollama), управление компьютером, TTS голосом Джарвиса |
 | [Shoes-classifier](https://github.com/pu4kovka/Shoes-classifier) | Классификация моделей кроссовок Nike по фото: ResNet (PyTorch) + inference API на FastAPI |
 | [avito_test-2](https://github.com/pu4kovka/avito_test-2) | Сервис мониторинга количества объявлений на Авито: async FastAPI + Playwright + PostgreSQL |
